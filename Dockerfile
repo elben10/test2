@@ -1,1 +1,1 @@
-FROM jupyter/base-notebook
+FROM alpine3.7
